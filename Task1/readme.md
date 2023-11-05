@@ -1,0 +1,147 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>NeuroNexus</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+<body>
+	<section class="banner" role="banner">
+        <header id="header">
+            <div class="header-content clearfix">
+                <a class="logo" href="#"><img src="images/logo.png" alt=""></a>
+                <nav class="navigation" role="navigation">
+                    <ul class="primary-nav">
+                        <li><a href="#workss">Works</a></li>
+                    </ul>
+                </nav>
+                <a href="#" class="nav-toggle">Menu<span></span></a>
+            </div><!-- header content -->
+        </header><!-- header -->
+        <div class="container">
+            <div class="col-md-10 col-md-offset-1">
+                <div class="banner-text text-center">
+                    <h1>NeuroNexus Innovations</h1>
+                    <p>“Technology is the tool, creativity is the key. Together, we unlock the future of IT.”</p>
+                    <a href="#" class="btn btn-large">Find out more</a>
+                </div><!-- banner text -->
+            </div>
+        </div>
+    </section><!-- banner -->
+
+
+
+
+
+
+    <section id="workss" class="section testimonials no-padding">
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li>
+                            <div class="col-md-6">
+                                <div class="avatar">
+                                    <img src="images/work1.jpg" alt="" class="img-responsive">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <blockquote>
+                                    <p>Our IT company actively explores the digital universe, innovating beyond the ordinary. We leverage technology and creativity to deliver bespoke software solutions and intuitive user interfaces. Join us as we redefine possibilities in the digital realm, creating extraordinary experiences for your business.
+                                    </p>
+                                    <cite class="author">Exploring creative depths</cite>
+                                </blockquote>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="col-md-6">
+                                <div class="avatar">
+                                    <img src="images/work2.jpg" alt="" class="img-responsive">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <blockquote>
+                                    <p>We strive for sustainable growth, building enduring partnerships, and delivering consistent value to your business. Join us on this journey towards a technologically advanced future.
+                                    </p>
+                                    <cite class="author">A lasting journey</cite>
+                                </blockquote>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <footer class="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h5>Location</h5>
+                        <p>Remote</p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h5>Share with Love</h5>
+                        <ul class="footer-share">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                            <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h5>About NeuroNexus</h5>
+                        <p>asdasdfgsjklgdhnsdfgjhndsfjighbnsdf sahodnfoasjndfosadjnf osd nfsoakdf nksdnf asdfkns fd.</p>
+                    </div>
+                </div>
+            </div>
+        </div><!-- footer top -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="col-md-12">
+                    <p>Copyright © 2023 Chimmon. All Rights Reserved<br>Made with <i class="fa fa-heart pulse"></i> by <a href="http://chimmon.com/">Chimmon</a></p>
+                </div>
+            </div>
+        </div>
+    </footer><!-- footer -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.flexslider-min.js"></script>
+    <script src="js/jquery.fancybox.pack.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/retina.min.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/main.js"></script>
+    
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       
+        ga('create', 'UA-XXXX-X');
+        ga('send', 'pageview');
+    </script>
+</body>
+</html>
